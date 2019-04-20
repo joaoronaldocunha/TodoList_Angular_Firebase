@@ -1,3 +1,7 @@
+# Tutorial Steps
+
+Tutorial for Todo List App using Angular and Firebase: [Steps](./TutorialSteps.pdf).
+
 # Todolistapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
